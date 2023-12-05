@@ -1,0 +1,4 @@
+Flask==2.1.1
+Werkzeug==2.1.1
+tensorflow
+matplotlib==3.4.3
